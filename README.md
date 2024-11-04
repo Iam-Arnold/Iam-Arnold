@@ -1,7 +1,7 @@
 # 💫 About Me:
 ✅ Professional Full Stack Developer with over 2 years of experience.
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iarnoldraphael/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/16993143/arnold-raphael) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iarnoldraphael/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16993143/arnold-raphael) 
 
 [![](https://visitcount.itsvg.in/api?id=Iam-Arnold&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
